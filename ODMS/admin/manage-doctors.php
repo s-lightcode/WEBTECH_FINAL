@@ -138,8 +138,8 @@ $cnt=$cnt+1;
 								</div>
 							</div>
 						</div>
-						<!-- end: BASIC EXAMPLE -->
-						<!-- end: SELECT BOXES -->
+						
+					
 						
 					</div>
 				</div>
