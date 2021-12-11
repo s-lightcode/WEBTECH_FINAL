@@ -31,7 +31,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`, `updateDate`) VALUES
-(1, 'admin', 'Test@12345', '28-12-2016 11:42:05 AM');
+(1, 'admin', 'password', '28-12-2016 11:42:05 AM');
 
 -- --------------------------------------------------------
 
