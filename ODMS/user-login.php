@@ -1,7 +1,7 @@
 <?php
 session_start();
 error_reporting(0);
-include("include/config.php");
+require("include/config.php");
 if(isset($_POST['submit']))
 {
 $ret=mysqli_query($con,"SELECT * FROM users WHERE email='".$_POST['username']."' and password='".md5($_POST['password'])."'");
